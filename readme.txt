@@ -6,7 +6,7 @@
 
 - The program outputs the results to ../Output directory
 
-- All codes for the program are in 'Programming_test_code.py'
+- All codes for the program test are in 'Programming_test_code.py'
 
 """
 
